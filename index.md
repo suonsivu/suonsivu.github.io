@@ -7,7 +7,7 @@ A nerd who likes imaging and punk rock.
 
 * **Doctoral Researcher at Tampere University, Finland**
 * **Camera Algorithm Engineer at Huawei Technologies Finland**
-* **Lead Singer/Guitarist + Songwriter in RÄTBOX - [Spotify](https://open.spotify.com/artist/0SBbpp7n3cAhWdirXeAwef)
+* **Lead Singer/Guitarist + Songwriter in RÄTBOX - [Spotify](https://open.spotify.com/artist/0SBbpp7n3cAhWdirXeAwef)**
 
 Currently pursuing a PhD degree at Tampere University. My research focuses on signal processing for passive single-photon imaging and SPAD-based sensor applications.
 
