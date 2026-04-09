@@ -5,7 +5,7 @@ layout: default
 # Aleksi Suonsivu
 A nerd who likes imaging and punk rock.
 
-* **Doctoral Researcher at Tampere University, Finland [Scholar](https://scholar.google.com/citations?user=7KGHOYUAAAAJ&hl=fi&oi=ao)**
+* **Doctoral Researcher at Tampere University, Finland - [Scholar](https://scholar.google.com/citations?user=7KGHOYUAAAAJ&hl=fi&oi=ao)**
 * **Camera Algorithm Engineer at Huawei Technologies Finland**
 * **Lead Singer/Guitarist + Songwriter in RÄTBOX - [Spotify](https://open.spotify.com/artist/0SBbpp7n3cAhWdirXeAwef)**
 
