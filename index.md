@@ -8,7 +8,7 @@ A nerd who likes imaging and punk rock.
 * **Doctoral Researcher at Tampere University, Finland**
 * **Camera Algorithm Engineer at Huawei Technologies Finland**
 
-A nerd who likes imaging and punk rock. Currently I'm pursuing a PhD degree at Tampere University, where I'm researching the signal processing and applications of Single-photon Avalanche Diodes for passive imaging.
+Currently pursuing a PhD degree at Tampere University. My research focuses on signal processing for passive single-photon imaging and SPAD-based sensor applications.
 
 ## Publications
 
