@@ -25,4 +25,4 @@ Currently pursuing a PhD degree at Tampere University. My research focuses on si
 
 
 ## Contact
-You can find me on [GitHub](https://github.com/suonsivu) or [LinkedIn](https://linkedin.com).
+You can find me on [GitHub](https://github.com/suonsivu) or [LinkedIn](https://www.linkedin.com/in/aleksi-suonsivu/).
