@@ -1,4 +1,21 @@
 ---
+# Front matter is required
 ---
 
 @import "no-style-please";
+
+/* Change links to Green */
+a {
+  color: #2e7d32; /* This is a nice, readable dark green */
+  text-decoration: underline;
+}
+
+/* Optional: Change hover color to a slightly lighter green */
+a:hover {
+  color: #4caf50;
+}
+
+/* Optional: Keep visited links the same green so they don't turn purple */
+a:visited {
+  color: #2e7d32;
+}
