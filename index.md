@@ -9,8 +9,16 @@ layout: default
 A nerd who likes imaging and punk rock. Currently I'm pursuing a PhD degree at Tampere University, where I'm researching the signal processing and applications of Single-photon Avalanche Diodes for passive imaging.
 
 ## Publications
-* **Paper Title**, *Journal*, 2026.
-* **Another Paper**, *Conference*, 2025.
+
+### 2026
+* **Color Preserving CMOS-SPAD Fusion for Multi-Frame HDR**, *A. Suonsivu, L. Salmela, L. Helin, L. Uosukainen, G. Boracchi*. Proceedings of the IEEE/CVF Winter Conference on Applications of Computer Vision (WACV), 2026.
+
+### 2025
+* **Accurate Simulation Pipeline for Passive Single-Photon Imaging**, *A. Suonsivu, L. Salmela, L. Uosukainen, E. Peretti, R. C. Bilcu, G. Boracchi*. IEEE Sensors Journal, 2025.
+* **Dark Count Removal in Photon-Counting SPAD Arrays**, *E. Peretti, A. Suonsivu, L. Salmela, L. Uosukainen, R. C. Bilcu, G. Boracchi*. IEEE International Conference on Image Processing (ICIP), pp. 522-527, 2025.
+
+### 2024
+* **Time-Resolved MNIST Dataset for Single-Photon Recognition**, *A. Suonsivu, L. Salmela, E. Peretti, L. Uosukainen, R. C. Bilcu, G. Boracchi*. European Conference on Computer Vision (ECCV), pp. 127-143, 2024.
 
 
 ## Contact
