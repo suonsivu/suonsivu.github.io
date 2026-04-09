@@ -7,6 +7,7 @@ A nerd who likes imaging and punk rock.
 
 * **Doctoral Researcher at Tampere University, Finland**
 * **Camera Algorithm Engineer at Huawei Technologies Finland**
+* **Lead Singer/Guitarist + Songwriter in RÄTBOX - [Spotify](https://open.spotify.com/artist/0SBbpp7n3cAhWdirXeAwef)
 
 Currently pursuing a PhD degree at Tampere University. My research focuses on signal processing for passive single-photon imaging and SPAD-based sensor applications.
 
@@ -22,9 +23,6 @@ Currently pursuing a PhD degree at Tampere University. My research focuses on si
 ### 2024
 * **Time-Resolved MNIST Dataset for Single-Photon Recognition**, *A. Suonsivu, L. Salmela, E. Peretti, L. Uosukainen, R. C. Bilcu, G. Boracchi*. European Conference on Computer Vision (ECCV), pp. 127-143, 2024.
 
-
-## RÄTBOX
-I'm the lead singer/guitarist + main songwriter in Finnish punk rock band called RÄTBOX. You can find our music on [Spotify](https://(https://open.spotify.com/artist/0SBbpp7n3cAhWdirXeAwef)
 
 ## Contact
 You can find me on [GitHub](https://github.com/suonsivu) or [LinkedIn](https://linkedin.com).
