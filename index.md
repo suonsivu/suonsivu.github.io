@@ -23,5 +23,8 @@ Currently pursuing a PhD degree at Tampere University. My research focuses on si
 * **Time-Resolved MNIST Dataset for Single-Photon Recognition**, *A. Suonsivu, L. Salmela, E. Peretti, L. Uosukainen, R. C. Bilcu, G. Boracchi*. European Conference on Computer Vision (ECCV), pp. 127-143, 2024.
 
 
+## RÄTBOX
+I'm the lead singer/guitarist + main songwriter in Finnish punk rock band called RÄTBOX. You can find our music on [Spotify](https://(https://open.spotify.com/artist/0SBbpp7n3cAhWdirXeAwef)
+
 ## Contact
 You can find me on [GitHub](https://github.com/suonsivu) or [LinkedIn](https://linkedin.com).
