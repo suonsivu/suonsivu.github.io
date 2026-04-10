@@ -7,7 +7,6 @@ A nerd who likes imaging and punk rock.
 
 [Scholar](https://scholar.google.com/citations?user=7KGHOYUAAAAJ&hl=fi&oi=ao) - [LinkedIn](https://www.linkedin.com/in/aleksi-suonsivu/) - [GitHub](https://github.com/suonsivu) - [CV](/assets/Aleksi_Suonsivu_CV2026.pdf) - [Spotify](https://open.spotify.com/artist/0SBbpp7n3cAhWdirXeAwef)
 
-## Profile
 * **Doctoral Researcher at Tampere University, Finland**
 * **Camera Algorithm Engineer at Huawei Technologies Finland**
 * **Lead Singer/Guitarist of RÄTBOX**
