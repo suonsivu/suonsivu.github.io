@@ -27,3 +27,6 @@ a:hover {
 img, .emoji {
   filter: invert(1) !important; /* Inverting an inverted image makes it normal */
 }
+
+h2 { margin-top: 2.5rem !important; margin-bottom: 0.8rem !important; }
+h3 { margin-top: 1rem !important; margin-bottom: 0.2rem !important; }
