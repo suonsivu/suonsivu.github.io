@@ -3,7 +3,8 @@ layout: default
 ---
 
 # Aleksi Suonsivu
-Scholar - Linkedin - Github - CV - Spotify
+Scholar | Linkedin | Github | CV | Spotify
+
 A nerd who likes imaging and punk rock.
 
 * **Doctoral Researcher at Tampere University, Finland - [Scholar](https://scholar.google.com/citations?user=7KGHOYUAAAAJ&hl=fi&oi=ao)**
