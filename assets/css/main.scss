@@ -4,18 +4,18 @@
 
 @import "no-style-please";
 
-/* Change links to Green */
-a {
-  color: #2e7d32; /* This is a nice, readable dark green */
+/* Matrix Green Base Color */
+a, a:visited {
+  color: #00FF41 !important; /* Classic Matrix Green */
   text-decoration: underline;
+  transition: all 0.3s ease; /* Makes the color change feel smooth */
 }
 
-/* Optional: Change hover color to a slightly lighter green */
+/* Color Changing Glow Effect on Hover */
 a:hover {
-  color: #4caf50;
-}
-
-/* Optional: Keep visited links the same green so they don't turn purple */
-a:visited {
-  color: #2e7d32;
+  color: #ffffff !important;           /* Text turns white for contrast */
+  background-color: #00FF41 !important; /* Highlights the background green */
+  text-shadow: 0 0 8px #00FF41;         /* Adds a Matrix-style glow */
+  text-decoration: none;
+  padding: 0 2px;
 }
