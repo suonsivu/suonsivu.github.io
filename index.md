@@ -3,13 +3,13 @@ layout: default
 ---
 
 # Aleksi Suonsivu
-Scholar | Linkedin | Github | CV | Spotify
-
 A nerd who likes imaging and punk rock.
 
-* **Doctoral Researcher at Tampere University, Finland - [Scholar](https://scholar.google.com/citations?user=7KGHOYUAAAAJ&hl=fi&oi=ao)**
+[Scholar](https://scholar.google.com/citations?user=7KGHOYUAAAAJ&hl=fi&oi=ao) | [LinkedIn](https://www.linkedin.com/in/aleksi-suonsivu/) | [GitHub](https://github.com/suonsivu) | CV | [Spotify](https://open.spotify.com/artist/0SBbpp7n3cAhWdirXeAwef)
+
+* **Doctoral Researcher at Tampere University, Finland**
 * **Camera Algorithm Engineer at Huawei Technologies Finland**
-* **Lead Singer/Guitarist of RÄTBOX - [Spotify](https://open.spotify.com/artist/0SBbpp7n3cAhWdirXeAwef)**
+* **Lead Singer/Guitarist of RÄTBOX**
 
 Currently pursuing a PhD degree at Tampere University. My research focuses on signal processing and practical applications of Single-Photon Avalanche Diodes (SPADs) within the context of passive imaging.
 
