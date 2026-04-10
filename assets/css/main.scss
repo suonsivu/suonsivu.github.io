@@ -2,28 +2,29 @@
 ---
 @import "no-style-please";
 
-/* 1. Reset text to be normal (White on Black) */
-/* The theme's 'invert' will turn this white back to black if we aren't careful, 
-   so we let the theme do its thing for the text. */
-
-/* 2. Target ONLY the links */
-a, a:link, a:visited, a:active {
-  /* This color is the mathematical opposite of Matrix Green. 
-     When the theme inverts the page, this will turn into #00FF41. */
-  color: #FF00BE !important; 
-  text-decoration: underline;
+/* 1. Kill the 'Invert' filter so colors stay true */
+body, body[a="dark"], @media (prefers-color-scheme: dark) {
+  filter: invert(0) !important; 
+  background-color: #000000 !important; /* Force true black background */
+  color: #00FF41 !important;            /* Force green text */
 }
 
-/* 3. Hover effect */
+/* 2. Set the Matrix Green Links */
+a, a:link, a:visited, a:active {
+  color: #00FF41 !important; 
+  text-decoration: underline !important;
+  filter: invert(0) !important; /* Ensure the link doesn't flip colors */
+}
+
+/* 3. The Matrix Hover Effect */
 a:hover {
-  /* We want black text on green background. 
-     So we provide the INVERSE: white text on magenta background. */
-  color: #ffffff !important;           
-  background-color: #FF00BE !important;
+  color: #000000 !important;
+  background-color: #00FF41 !important;
+  text-shadow: 0 0 10px #00FF41 !important;
   text-decoration: none !important;
 }
 
-/* 4. Fix images and other elements so they stay normal */
-img, .emoji {
-  filter: invert(1) !important; /* Inverting an inverted image makes it normal */
+/* 4. Fix images so they aren't inverted */
+img {
+  filter: invert(0) !important;
 }
