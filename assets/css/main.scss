@@ -1,21 +1,30 @@
 ---
-# Front matter is required
 ---
-
 @import "no-style-please";
 
-/* Matrix Green Base Color */
-a, a:visited {
-  color: #00FF41 !important; /* Classic Matrix Green */
-  text-decoration: underline;
-  transition: all 0.3s ease; /* Makes the color change feel smooth */
+/* 1. Kill the 'Invert' filter so colors stay true */
+body, body[a="dark"], @media (prefers-color-scheme: dark) {
+  filter: invert(0) !important; 
+  background-color: #000000 !important; /* Force true black background */
+  color: #00FF41 !important;            /* Force green text */
 }
 
-/* Color Changing Glow Effect on Hover */
+/* 2. Set the Matrix Green Links */
+a, a:link, a:visited, a:active {
+  color: #00FF41 !important; 
+  text-decoration: underline !important;
+  filter: invert(0) !important; /* Ensure the link doesn't flip colors */
+}
+
+/* 3. The Matrix Hover Effect */
 a:hover {
-  color: #ffffff !important;           /* Text turns white for contrast */
-  background-color: #00FF41 !important; /* Highlights the background green */
-  text-shadow: 0 0 8px #00FF41;         /* Adds a Matrix-style glow */
-  text-decoration: none;
-  padding: 0 2px;
+  color: #000000 !important;
+  background-color: #00FF41 !important;
+  text-shadow: 0 0 10px #00FF41 !important;
+  text-decoration: none !important;
+}
+
+/* 4. Fix images so they aren't inverted */
+img {
+  filter: invert(0) !important;
 }
