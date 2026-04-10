@@ -2,40 +2,28 @@
 ---
 @import "no-style-please";
 
-/* 1. COMPLETELY WIPE THE INVERT FILTER FROM THE SITE */
-* {
-  filter: none !important;
-  -webkit-filter: none !important;
-}
+/* 1. Reset text to be normal (White on Black) */
+/* The theme's 'invert' will turn this white back to black if we aren't careful, 
+   so we let the theme do its thing for the text. */
 
-/* 2. FORCE DARK BACKGROUND & GREEN TEXT ON EVERYTHING */
-html, body {
-  background-color: #000000 !important;
-  color: #00FF41 !important;
-  filter: none !important;
-}
-
-/* 3. SET THE MATRIX GREEN FOR ALL LINKS */
+/* 2. Target ONLY the links */
 a, a:link, a:visited, a:active {
-  color: #00FF41 !important;
-  text-decoration: underline !important;
-  filter: none !important;
+  /* This color is the mathematical opposite of Matrix Green. 
+     When the theme inverts the page, this will turn into #00FF41. */
+  color: #FF00BE !important; 
+  text-decoration: underline;
 }
 
-/* 4. HOVER EFFECT: BLACK TEXT ON GREEN BG */
+/* 3. Hover effect */
 a:hover {
-  color: #000000 !important;
-  background-color: #00FF41 !important;
+  /* We want black text on green background. 
+     So we provide the INVERSE: white text on magenta background. */
+  color: #ffffff !important;           
+  background-color: #FF00BE !important;
   text-decoration: none !important;
-  filter: none !important;
 }
 
-/* 5. MAKE HEADERS AND HORIZONTAL RULES GREEN */
-h1, h2, h3, h4, h5, h6, p, li, hr, blockquote {
-  color: #00FF41 !important;
-}
-
-/* 6. FIX THE HR COLOR (THE ///// LINES) */
-hr:before {
-  color: #00FF41 !important;
+/* 4. Fix images and other elements so they stay normal */
+img, .emoji {
+  filter: invert(1) !important; /* Inverting an inverted image makes it normal */
 }
