@@ -1,6 +1,7 @@
 ---
 layout: default
 ---
+<link rel="icon" href="/assets/megis.png" type="image/png">
 
 # Aleksi Suonsivu
 A nerd who likes imaging and punk rock.
