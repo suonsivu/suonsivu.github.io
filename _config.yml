@@ -5,6 +5,7 @@ description: Doctoral Researcher @ Tampere University, Finland
 url: "https://suonsivu.github.io"
 baseurl: ""
 
+favicon: "assets/megis.png"
 # This theme uses a specific 'plugins' list to work on GitHub
 plugins:
   - jekyll-remote-theme
