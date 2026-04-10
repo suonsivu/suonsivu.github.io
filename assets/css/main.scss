@@ -2,29 +2,40 @@
 ---
 @import "no-style-please";
 
-/* 1. Kill the 'Invert' filter so colors stay true */
-body, body[a="dark"], @media (prefers-color-scheme: dark) {
-  filter: invert(0) !important; 
-  background-color: #000000 !important; /* Force true black background */
-  color: #00FF41 !important;            /* Force green text */
+/* 1. COMPLETELY WIPE THE INVERT FILTER FROM THE SITE */
+* {
+  filter: none !important;
+  -webkit-filter: none !important;
 }
 
-/* 2. Set the Matrix Green Links */
+/* 2. FORCE DARK BACKGROUND & GREEN TEXT ON EVERYTHING */
+html, body {
+  background-color: #000000 !important;
+  color: #00FF41 !important;
+  filter: none !important;
+}
+
+/* 3. SET THE MATRIX GREEN FOR ALL LINKS */
 a, a:link, a:visited, a:active {
-  color: #00FF41 !important; 
+  color: #00FF41 !important;
   text-decoration: underline !important;
-  filter: invert(0) !important; /* Ensure the link doesn't flip colors */
+  filter: none !important;
 }
 
-/* 3. The Matrix Hover Effect */
+/* 4. HOVER EFFECT: BLACK TEXT ON GREEN BG */
 a:hover {
   color: #000000 !important;
   background-color: #00FF41 !important;
-  text-shadow: 0 0 10px #00FF41 !important;
   text-decoration: none !important;
+  filter: none !important;
 }
 
-/* 4. Fix images so they aren't inverted */
-img {
-  filter: invert(0) !important;
+/* 5. MAKE HEADERS AND HORIZONTAL RULES GREEN */
+h1, h2, h3, h4, h5, h6, p, li, hr, blockquote {
+  color: #00FF41 !important;
+}
+
+/* 6. FIX THE HR COLOR (THE ///// LINES) */
+hr:before {
+  color: #00FF41 !important;
 }
