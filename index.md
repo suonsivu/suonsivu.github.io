@@ -9,11 +9,11 @@ A nerd who likes imaging and punk rock.
 [Scholar](https://scholar.google.com/citations?user=7KGHOYUAAAAJ&hl=fi&oi=ao) <span>|</span> [LinkedIn](https://www.linkedin.com/in/aleksi-suonsivu/) <span>|</span> [GitHub](https://github.com/suonsivu) <span>|</span> [CV](/assets/Aleksi_Suonsivu_CV2026.pdf) <span>|</span> [Spotify](https://open.spotify.com/artist/0SBbpp7n3cAhWdirXeAwef)
 
 ## Profile
+* **Senior Algorithm Engineer at Agate Sensors Oy**
 * **Doctoral Researcher at Tampere University, Finland**
-* **Camera Algorithm Engineer at Huawei Technologies Finland**
 * **Lead Singer/Guitarist of RÄTBOX**
 
-Currently pursuing a PhD degree at Tampere University. My research focuses on signal processing and practical applications of Single-Photon Avalanche Diodes (SPADs) within the context of passive imaging.
+Senior Algorithm Engineer, currently pursuing a PhD degree at Tampere University. My academic research focuses on signal processing and practical applications of Single-Photon Avalanche Diodes (SPADs) within the context of passive imaging.
 
 ## Publications
 ### 2026
