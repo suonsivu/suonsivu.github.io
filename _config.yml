@@ -1,5 +1,8 @@
 remote_theme: riggraz/no-style-please
 
+theme_config:
+  appearance: "dark"
+
 title: Aleksi Suonsivu
 description: Doctoral Researcher @ Tampere University, Finland
 url: "https://suonsivu.github.io"
