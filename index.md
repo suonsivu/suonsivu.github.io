@@ -17,6 +17,8 @@ Senior Algorithm Engineer, currently pursuing a PhD degree at Tampere University
 
 ## Publications
 ### 2026
+* **[EWMA-CDT for Adaptive Temporal57.2026.11630060]
+  (https://ieeexplore.ieee.org/abstract/document/11630060)**, *F. Scroccarello, E. Peretti, A. Suonsivu, L. Salmela, L. Uosukainen, S. Bertolasi, I. Schiopu, G. Boracchi*. IEEE International Conference on Image Processing (ICIP), pp. 1-6, 2026.
 * **[Color Preserving CMOS-SPAD Fusion for Multi-Frame HDR](https://openaccess.thecvf.com/content/WACV2026/html/Suonsivu_Color_Preserving_CMOS-SPAD_Fusion_for_Multi-Frame_HDR_WACV_2026_paper.html)**, *A. Suonsivu, L. Salmela, L. Helin, L. Uosukainen, G. Boracchi*. Proceedings of the IEEE/CVF Winter Conference on Applications of Computer Vision (WACV), 2026.
 
 ### 2025
