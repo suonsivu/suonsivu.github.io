@@ -10,7 +10,7 @@
 a, a:link, a:visited, a:active {
   /* This color is the mathematical opposite of Matrix Green. 
      When the theme inverts the page, this will turn into #00FF41. */
-  color: #2f8ce8 !important; /* was #FF00BE*/
+  color: #0025BA !important; /* was #FF00BE*/
   text-decoration: underline;
 }
 
@@ -19,7 +19,7 @@ a:hover {
   /* We want black text on green background. 
      So we provide the INVERSE: white text on magenta background. */
   color: #ffffff !important;           
-  background-color: #2f8ce8 !important;
+  background-color: #0025BA !important;
   text-decoration: none !important;
 }
 
